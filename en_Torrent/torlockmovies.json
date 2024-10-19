@@ -10,9 +10,9 @@
         "year_int"
       ]
     },	
-    "more_pages_indicator": "<ul class=\"pagination\">",
-    "next_page_path" : "ul.pagination li.active + li a",
-    "next_page_path_attr": "href",
+    "more_pages_indicator": "",
+    "next_page_path" : "",
+    "next_page_path_attr": "",
     "links_on_first_page": false,
     "drill_down_path": "span.tv1 +a",
     "drill_down_path_attr": "abs:href",
