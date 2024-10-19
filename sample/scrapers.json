@@ -9,5 +9,41 @@
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/bitlord.json",	
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/yts.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/yourbittorrent.json"		
+	],
+	"2": [
+		"https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_DebridOnly/drip.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/kenben.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentdownload.json",	
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/piratebay.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/kickass.json",				
+		"https://raw.githubusercontent.com/oathzed/refs/heads/main/main/en_Torrent/csv.json",	
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torlockseries.json",
+		"https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_Torrent/btdig.json",	
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/bt52.json"	
+	],
+	"3": [
+		"https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_DebridOnly/dd.json",
+	        "https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_Torrent/1337x.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/rarbg.json",		
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/Bitsearch.json",				
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/btcq.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/isohunt.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torlockmovies.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/limetorrents.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/animetosho.json",
+		"https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_Torrent/nyaa.json",
+		"https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_Torrent/td.json",
+		"https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_Torrent/ox.json",
+		"https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_Torrent/7movie.json"
+	],
+	"4": [
+		"https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_DebridOnly/rlscomment.json",
+		"https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_DebridOnly/rlsmain.json",
+		"https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_DebridOnly/rlsrapid.json",
+		"https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_DebridOnly/123.json",
+	        "https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_DebridOnly/mba.json",
+	        "https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_DebridOnly/wd.json",
+		"https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_DebridOnly/rone.json",
+		"https://raw.githubusercontent.com/oathzed/undone/refs/heads/main/en_DebridOnly/wserbia.json"
 	]
 }
