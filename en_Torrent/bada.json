@@ -49,7 +49,7 @@
 	"seeders_path": "tbody tr td.text-success",
 	"seeders_path_attr": "",
 	"filesize_path": "tbody tr:contains('Size') td:nth-child(2)",
-	"filesize_path_attr": "text",
+	"filesize_path_attr": "",
 	"quality_path": "|title_path|",
 	"quality_path_attr": "",
 	"info_path": "|title_path|",
