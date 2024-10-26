@@ -7,7 +7,7 @@
   "domains": [
     "itorrent.ws"
   ],
-  "base_url": "https://itirrent.ws",
+  "base_url": "https://itorrent.ws",
   "search_url_format_episode": {
     "string_format": "/torrentek/title/%s+%02dx%02d/",
     "replacement": [
