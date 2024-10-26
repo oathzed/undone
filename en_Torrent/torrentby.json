@@ -1,15 +1,15 @@
 {
-  "name": "rutor",
+  "name": "TorrentBY",
   "language": [
     "hi",
     "en"
   ],
   "domains": [
-    "rutor.info"
+    "torrent.by"
   ],
-  "base_url": "https://sitenable.ch/o.php?b=21&f=norefer&pv=0&mobile=&u=http://rutor.info",
+  "base_url": "https://torrent.by",
   "search_url_format_episode": {
-    "string_format": "/search/%s+%02dx%02d",
+    "string_format": "/search/?search=%s+s%02de%02d&category=0",
     "replacement": [
       "title_lower",
       "season_int",
@@ -17,14 +17,14 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/search/%s+%04d",
+    "string_format": "/search/?search=%s+%04d&category=0",
     "replacement": [
       "title_lower",
       "year_int"
     ]
   },
   "search_url_format_season_pack": {
-    "string_format": "/search/%s",
+    "string_format": "/search/?search=%s&category=0",
     "replacement": [
       "title_lower"
     ]
