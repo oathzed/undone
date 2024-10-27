@@ -1,8 +1,8 @@
 {
   "name": "magnetdl",
   "language": ["hi", "en"],
-  "domains": ["magnetdl.com", "magnetdl.unblockit.buzz", "magnetdl.unblockedfor.me"],
-  "base_url": "https://magnetdl.com",
+  "domains": ["torrentquest.com"],
+  "base_url": "https://www.torrentquest.com",
   "search_url_format_episode": {
     "string_format": "/%.1s/%s-s%02de%02d/se/desc/",
     "replacement": [
