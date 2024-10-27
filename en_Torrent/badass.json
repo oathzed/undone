@@ -46,7 +46,7 @@
 	"details_path_attr": "",
 	"magnet_path": "a:contains('Magnet Download')",
 	"magnet_path_attr": "href",
-	"seeders_path": "tbody tr td.text-success",
+	"seeders_path": "tr:contains('Seeders') td:nth-of-type(2)",
 	"seeders_path_attr": "",
 	"filesize_path": "tr:contains('Size') td:nth-of-type(2)",
 	"filesize_path_attr": "",
