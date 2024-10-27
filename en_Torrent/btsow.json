@@ -45,7 +45,7 @@
 	"details_path": "|title_path|",
 	"details_path_attr": "",
 	"magnet_path": "textarea.magnet-link",
-	"magnet_path_attr": "innerText",
+	"magnet_path_attr": "",
 	"seeders_path": "tbody tr td.text-success",
 	"seeders_path_attr": "",
 	"filesize_path": "tbody tr:contains('Size') td:nth-child(2)",
