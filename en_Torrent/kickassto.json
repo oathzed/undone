@@ -46,7 +46,7 @@
 	"details_path_attr": "",
 	"magnet_path": "a[title='Magnet link']",
 	"magnet_path_attr": "href",
-	"seeders_path": "p:contains('size:')",
+	"seeders_path": "div.seedLeachContainer div.seedBlock strong",
 	"seeders_path_attr": "",
 	"filesize_path": "div.widgetSize strong",
 	"filesize_path_attr": "",
