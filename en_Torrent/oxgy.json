@@ -1,14 +1,14 @@
 {
-  "name": "oxtorrent",
+  "name": "oxtorrentGY",
   "language": [
     "en"
   ],
   "domains": [
-    "oxtorrent.co"
+    "oxtorrent.gy"
   ],
-  "base_url": "https://www.oxtorrent.co",
+  "base_url": "https://www.oxtorrent.gy",
   "search_url_format_episode": {
-    "string_format": "/recherche/%s-s%02de%02d",
+    "string_format": "/recherche/%s+s%02de%02d",
     "replacement": [
       "title",
       "season_int",
@@ -16,7 +16,7 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/recherche/%s-%04d",
+    "string_format": "/recherche/%s+%04d",
     "replacement": [
       "title",
       "year_int"
@@ -26,7 +26,7 @@
   "next_page_path": "",
   "next_page_path_attr": "",
   "links_on_first_page": false,
-  "drill_down_path": "tbody tr td a[href^=/torrent/]",
+  "drill_down_path": "tbody tr td a[href^=/detail/]",
   "drill_down_path_attr": "abs:href",
   "is_torrent": true,
   "is_direct": false,
