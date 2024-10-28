@@ -4,8 +4,7 @@
     "en"
   ],
   "domains": [
-    "oxtorrent.co",
-    "oxtorrent.io"
+    "oxtorrent.co"
   ],
   "base_url": "https://www.oxtorrent.co",
   "search_url_format_episode": {
