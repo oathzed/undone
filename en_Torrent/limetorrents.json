@@ -18,6 +18,12 @@
         "year_int"
       ]
     },
+    	"search_url_format_season_pack": {
+		"string_format": "/search/tv/%s",
+		"replacement": [
+			"title_lower"
+		]
+	},
     "more_pages_indicator": "Next page",
     "next_page_path" : "div.search_stat a#next",
     "next_page_path_attr": "abs:href",
