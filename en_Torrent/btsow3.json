@@ -5,9 +5,9 @@
 		"hi"
 	],
 	"domains": [
-		"thingproxy.freeboard.io/fetch/https:"
+		"corsproxy.io/?url=https:"
 	],
-	"base_url": "https://thingproxy.freeboard.io/fetch/https:",
+	"base_url": "https://corsproxy.io/?url=https:",
 	"search_url_format_episode": {
 		"string_format": "//btsow.motorcycles/search/%s+s%02de%02d/",
 		"replacement": [
