@@ -5,9 +5,9 @@
 		"hi"
 	],
 	"domains": [
-		"api.codetabs.com/v1/proxy/?quest=https:"
+		"thingproxy.freeboard.io/fetch/https:"
 	],
-	"base_url": "https://api.codetabs.com/v1/proxy/?quest=https:",
+	"base_url": "https://thingproxy.freeboard.io/fetch/https:",
 	"search_url_format_episode": {
 		"string_format": "//btsow.motorcycles/search/%s+s%02de%02d/",
 		"replacement": [
@@ -33,7 +33,7 @@
 	"next_page_path": "",
 	"next_page_path_attr": "",
 	"links_on_first_page": false,
-	"drill_down_path": "div.data-list div.row a[href*=//btsow]",
+	"drill_down_path": "div.data-list div.row a[href^=//btsow]",
 	"drill_down_path_attr": "abs:href",
 	"is_torrent": true,
 	"is_direct": false,
