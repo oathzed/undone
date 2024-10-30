@@ -7,7 +7,7 @@
 	"domains": [
 		"btsow.motorcycles"
 	],
-	"base_url": "https://sitenable.ch/o.php?b=21&f=norefer&pv=0&mobile=&u=https://btsow.motorcycles",
+	"base_url": "https://api.allorigins.win/get?url=https://btsow.motorcycles",
 	"search_url_format_episode": {
 		"string_format": "/search/%s+s%02de%02d/",
 		"replacement": [
