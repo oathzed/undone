@@ -5,7 +5,7 @@
 		"hi"
 	],
 	"domains": [
-		"btsow.motorcycles"
+		"api.codetabs.com/v1/proxy/?quest=https:"
 	],
 	"base_url": "https://api.codetabs.com/v1/proxy/?quest=https:",
 	"search_url_format_episode": {
