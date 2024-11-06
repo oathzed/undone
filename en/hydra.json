@@ -1,8 +1,8 @@
 {
-    "name": "scrapername",
+    "name": "Hydra",
     "language": ["en"],
-    "domains": ["error123.com"],
-    "base_url": "https://error123.com",
+    "domains": ["mp4hydra.org"],
+    "base_url": "https://mp4hydra.org",
     "search_url_format_episode": {
       "string_format": "",
       "replacement": [
@@ -14,7 +14,8 @@
     "search_url_format_movie": {
       "string_format": "/%s.html",
       "replacement": [
-	  "title_lower_dash"
+	  "title",
+	  "year_int"
       ]
     },
     "title_split": {
