@@ -4,9 +4,9 @@
     "domains": ["mp4hydra.org"],
     "base_url": "https://mp4hydra.org",
     "search_url_format_episode": {
-      "string_format": "",
+      "string_format": "/search?q=%s+S%02dE%02d",
       "replacement": [
-          "title_lower_dash",
+          "title",
           "season_int",
           "episode_int"
       ]
@@ -17,13 +17,6 @@
 	  "title",
 	  "year_int"
       ]
-    },
-    "title_split": {
-        "string_format": "",
-        "replacement": [
-            "season_int",
-            "episode_int"
-        ]
     },
     "more_pages_indicator": "",
     "next_page_path" : "",
