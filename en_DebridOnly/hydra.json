@@ -1,0 +1,53 @@
+{
+    "name": "Hydra",
+    "language": ["en"],
+    "domains": ["mp4hydra.org"],
+    "base_url": "https://mp4hydra.org",
+    "search_url_format_episode": {
+      "string_format": "",
+      "replacement": [
+          "title_lower_dash",
+          "season_int",
+          "episode_int"
+      ]
+    },
+    "search_url_format_movie": {
+      "string_format": "search?q=%s+%04d",
+      "replacement": [
+	  "title",
+	  "year_int"
+      ]
+    },
+    "title_split": {
+        "string_format": "",
+        "replacement": [
+            "season_int",
+            "episode_int"
+        ]
+    },
+    "more_pages_indicator": "",
+    "next_page_path" : "",
+    "next_page_path_attr": "",
+    "links_on_first_page": false,
+    "drill_down_path": "li.search-list div.search-image a[href*='mp4hydra.org/movie/']",
+    "drill_down_path_attr": "href",
+    "is_torrent": false,
+    "is_direct": true,
+    "links_container_path": "link[rel='preconnect']",
+    "link_path": "link[rel='preconnect'][href$='.mp4']",
+    "link_path_attr": "href",
+    "title_path": "/title",
+    "title_path_attr": "",
+    "details_path": "|title_path|",
+    "details_path_attr": "",
+    "magnet_path": "",
+    "magnet_path_attr": "",
+    "seeders_path": "",
+    "seeders_path_attr": "",
+    "filesize_path": "",
+    "filesize_path_attr": "",
+    "quality_path": "|title_path|",
+    "quality_path_attr": "",
+    "info_path": "|title_path|",
+    "info_path_attr": "",
+  }
