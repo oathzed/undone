@@ -1,0 +1,32 @@
+{
+  "name": "TEST",
+  "language": [
+    "hi",
+    "en"
+  ],
+  "domains": [
+    "elfhosted.com"
+  ],
+  "base_url": "https://mediafusion.elfhosted.com",
+ "search_url_format_episode": {
+    "string_format": "/stream/series/%s:%02d:%02d.json",
+   "replacement": [
+      "imdb_id"
+    ]
+  },
+  "search_url_format_movie": {
+    "string_format": "/stream/movie/%s.json",
+   "replacement": [
+      "imdb_id"
+    ]
+  },
+  "api": {         
+    "path_to_array": "streams",
+    "path_title": "behaviorHints.filename",
+    "path_seeders": "behaviorHints.videoSize",
+    "path_size": "behaviorHints.videoSize",    
+    "path_hash": "infoHash"
+  },
+  "is_torrent": true,
+  "is_direct": false
+}
