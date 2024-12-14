@@ -1,32 +1,17 @@
 {
   "name": "MF",
-  "language": [
-    "hi",
-    "en"
-  ],
-  "domains": [
-    "mediafusion.elfhosted.com"
-  ],
+  "language": ["hi", "en"],
+  "domains": ["mediafusion.elfhosted.com"],
   "base_url": "https://mediafusion.elfhosted.com",
- "search_url_format_episode": {
-    "string_format": "/stream/series/%s:%02d:%02d.json",
-   "replacement": [
-      "imdb_id",
-      "season_int",
-      "episode_int"
-    ]
-  },
   "search_url_format_movie": {
     "string_format": "/stream/movie/%s.json",
-   "replacement": [
-      "imdb_id"
-    ]
+    "replacement": ["imdb_id"]
   },
-  "api": {         
+  "api": {
     "path_to_array": "streams",
     "path_title": "description",
-    "path_seeders": "open",
-    "path_size": "none",    
+    "path_size": "behaviorHints.videoSize", 
+    "path_seeders": "none", 
     "path_hash": "infoHash"
   },
   "is_torrent": true,
