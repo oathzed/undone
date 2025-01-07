@@ -9,7 +9,7 @@
   ],
   "base_url": "https://www.oxtorrent.co",
   "search_url_format_episode": {
-    "string_format": "/recherche/%s+s%02de%02d",
+    "string_format": "/recherche/%s+s%02de%02d0",
     "replacement": [
       "title_lower",
       "season_int",
@@ -17,7 +17,7 @@
     ]
   },
   "search_url_format_movie": {
-    "string_format": "/recherche/%s+%04d",
+    "string_format": "/recherche/%s+%04d0",
     "replacement": [
       "title_lower",
       "year_int"
